@@ -1,6 +1,6 @@
 -  Hi, I’m @HybridizedBlott
 -  I’m interested in Bioinformatics and Machine Learning
--  I’m currently learning Molecular Biology and Genetics
+-  I'm Currently enrolled in the Master of Bioinformatics Program at the University of Guelph
 -  How to reach me: thomastekle80@hotmail.com
 
 <!---
